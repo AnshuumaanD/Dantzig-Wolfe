@@ -3,9 +3,8 @@ import lpsolve.*;
 
 /** 
     LP solver class mark2 that calls lp_solve.
-    @author Andreas Grothey (Java wrapper class)
+    @author Anshuumaan Dwivedi
     @version 10/02/11
-
  */
 
 public class LP {
@@ -667,7 +666,6 @@ public Long getIters() {
 }
 
 }
-
 
 
 

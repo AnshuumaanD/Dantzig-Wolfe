@@ -15,7 +15,7 @@ import java.util.Vector;
 import javax.sql.CommonDataSource;
 
 /**
- * @author Christos M. Delivorias
+ * @author Anshuumaan Dwivedi
  * 
  */
 public class Mcnf {
