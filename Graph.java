@@ -2,7 +2,7 @@ import java.util.*;
 
 /**
    Graph class for shortest path method.
-   @author Andreas Grothey
+   @author Anshuumaan Dwivedi
    @version 08/01/04
  */
 
